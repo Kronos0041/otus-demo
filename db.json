@@ -1,12 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "accounts": [
+      {
+        "id": "1A2B3C4D-5E6F-7G8H-9I0J-KLMNOPQRS123",
+        "urlToImage": "https://example.com/avatar1.jpg",
+        "nickname": "john_doe_tech",
+        "phone": "+7 (999) 123-45-67"
+      },
+      {
+        "id": "2B3C4D5E-6F7G-8H9I-0J1K-LMNOPQRS456",
+        "urlToImage": "https://example.com/avatar2.png",
+        "nickname": "anna_dev",
+        "phone": null
+      },
+      {
+        "id": "3C4D5E6F-7G8H-9I0J-1K2L-MNOPQRS789",
+        "urlToImage": "https://example.com/avatar3.webp",
+        "nickname": "max_speedcoder",
+        "phone": "+7 (900) 987-65-43"
+      },
+      {
+        "id": "4D5E6F7G-8H9I-0J1K-2L3M-NOPQRS012",
+        "urlToImage": "https://example.com/avatar4.jpg",
+        "nickname": "swift_ninja",
+        "phone": "+1 (555) 000-11-22"
+      }
   ],
   "profile": {
     "name": "typicode"
