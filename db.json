@@ -26,6 +26,16 @@
       }
   ],
   "profile": {
+    "id": 123456789,
+    "first_name": "Иван",
+    "last_name": "Петров",
+    "username": "ivan_petrov",
+    "phone": "79991234567",
+    "about": "Разработчик из Москвы",
+    "image": "https://i.pravatar.cc/300?img=1"
+    "lang_code": "ru"
+  }
+  "profile": {
     "name": "typicode"
   }
 }
