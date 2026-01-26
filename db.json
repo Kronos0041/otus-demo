@@ -1,29 +1,29 @@
 {
   "accounts": [
-      {
-        "id": "1A2B3C4D-5E6F-7G8H-9I0J-KLMNOPQRS123",
-        "urlToImage": "https://i.pravatar.cc/300?img=1",
-        "nickname": "john_doe_tech",
-        "phone": "+7 (999) 123-45-67"
-      },
-      {
-        "id": "2B3C4D5E-6F7G-8H9I-0J1K-LMNOPQRS456",
-        "urlToImage": "https://i.pravatar.cc/300?img=2",
-        "nickname": "anna_dev",
-        "phone": null
-      },
-      {
-        "id": "3C4D5E6F-7G8H-9I0J-1K2L-MNOPQRS789",
-        "urlToImage": "https://i.pravatar.cc/300?img=3",
-        "nickname": "max_speedcoder",
-        "phone": "+7 (900) 987-65-43"
-      },
-      {
-        "id": "4D5E6F7G-8H9I-0J1K-2L3M-NOPQRS012",
-        "urlToImage": "https://i.pravatar.cc/300?img=4",
-        "nickname": "swift_ninja",
-        "phone": "+1 (555) 000-11-22"
-      }
+    {
+      "id": "1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C12",
+      "urlToImage": "https://i.pravatar.cc/300?img=1",
+      "nickname": "john_doe_tech",
+      "phone": "+7 (999) 123-45-67"
+    },
+    {
+      "id": "2B3C4D5E-6F7A-8B9C-0D1E-2F3A4B5C6D78",
+      "urlToImage": "https://i.pravatar.cc/300?img=2",
+      "nickname": "anna_dev",
+      "phone": null
+    },
+    {
+      "id": "3C4D5E6F-7A8B-9C0D-1E2F-3A4B5C6D7E89",
+      "urlToImage": "https://i.pravatar.cc/300?img=3",
+      "nickname": "max_speedcoder",
+      "phone": "+7 (900) 987-65-43"
+    },
+    {
+      "id": "4D5E6F7A-8B9C-0D1E-2F3A-4B5C6D7E8F01",
+      "urlToImage": "https://i.pravatar.cc/300?img=4",
+      "nickname": "swift_ninja",
+      "phone": "+1 (555) 000-11-22"
+    }
   ],
   "profile": {
     "id": 123456789,
